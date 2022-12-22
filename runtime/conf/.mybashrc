@@ -1,0 +1,7 @@
+#
+# .mybashrc
+#
+
+echo "Hello"
+export PATH="/var/www/html/vendor/bin:$PATH"
+cd /var/www/html
